@@ -1,0 +1,114 @@
+/*
+CSS By: Jonathan Alonso
+Copyright (c) 2014 JA-1. All Rights Reserved.
+
+<http://JA-1.tk>
+*/
+
+*
+{
+	 margin-right: 0px; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; text-decoration: none;  /* Global Override */
+}
+
+hr
+{
+	 /* Global <hr> tag define */
+}
+
+ul
+{
+	 /* Global <ul> tag define */
+}
+
+li 
+{
+	 /* Global <li> tag define */
+}
+
+.html
+{
+	 height: 100%;
+}
+
+.body
+{
+	 background-color: #111111; position:absolute; top:0; bottom:0; right:0; left:0; 
+}
+
+.head
+{
+	 background-color: #000000; height: 100px;
+}
+
+.head_navbar
+{
+	 width: 60%; height: 100px; float: right; clear: both; margin-right: 6%;
+}
+
+
+#head_logo
+{
+	 float: left; clear: both;
+}
+
+.define_nav
+{
+	 /* LOL */
+}
+
+#nav_link_define
+{
+	 text-align: center; height: 80%; background-color: #8BC53C; width: 12%; margin-left: 3%; margin-right: 3%; display: inline; float: right; line-height: 30px; border-radius: 7px;
+}
+
+.nav_valign
+{
+	 padding: 3.8% 0;
+}
+
+/* Content Middle (Finally!) */
+
+.left_content
+{
+	 height: 499px; background-color: #111111; width: 85%; float: left; clear: both;
+}
+
+#content_title
+{
+	 color: #FF934A; margin-top: 7px;
+}
+
+#middle_content
+{
+	 color: white; width:80%; margin-left: auto; margin-right: auto; font-size: 20px; 
+}
+
+.right_bar_v
+{
+	 height: 499px; background-color: #C0C0C0; width: 15%; float: right;
+}
+
+.news
+{
+	 height: 50%; width: 90%; background-color: white; margin-left: auto; margin-right: auto; margin-top: 5%;
+}
+
+.social
+{
+	 height: 40%; width: 90%; background-color: white; margin-left: auto; margin-right: auto; margin-top: 5%; margin-bottom: 5%;
+}
+
+.footer
+{
+	 width: 100%; height: 67.7px; background-color: #000000; position:absolute; bottom:0; 
+}
+
+.footer_text
+{
+	 color: green; position: absolute; bottom: 0; left: 25%; 
+}
+
+.footer_links
+{ 
+	 text-align: center; color: white; margin-top: 3px;
+}
